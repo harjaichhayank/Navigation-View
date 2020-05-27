@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NavigationViewCreated</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="help">Help</string>
+    <string name="home">home</string>
+    <string name="language">language</string>
+    <string name="search">search</string>
+    <string name="add_to_group">Add to group</string>
+    <string name="group">Group</string>
+    <string name="theatre">Theatre</string>
+    <string name="social">social</string>
+
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_search_fragment">Hello Search fragment</string>
+    <string name="hello_home_fragment">Hello Home Fragment</string>
+    <string name="hello_language_fragment">Hello language fragment</string>
+    <string name="ImageView">ImageView</string>
+    <string name="textView1">textView1</string>
+    <string name="textView2">textView2</string>
+</resources>

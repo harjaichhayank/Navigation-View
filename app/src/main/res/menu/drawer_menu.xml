@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/baseline_help_black_24"
+            android:title="@string/help"
+            android:id="@+id/Help">
+        </item>
+        <item
+            android:icon="@drawable/baseline_home_black_24"
+            android:title="@string/home"
+            android:id="@+id/Home">
+        </item>
+        <item
+            android:icon="@drawable/baseline_language_black_24"
+            android:title="@string/language"
+            android:id="@+id/Language">
+        </item>
+        <item
+            android:icon="@drawable/baseline_search_black_24"
+            android:title="@string/search"
+            android:id="@+id/Search">
+        </item>
+    </group>
+
+    <item android:title="@string/social">
+        <menu>
+            <item android:icon="@drawable/baseline_pregnant_woman_black_24"
+                android:id="@+id/PreganantWoman"
+                android:title="@string/add_to_group">
+            </item>
+            <item android:icon="@drawable/baseline_room_black_24"
+                android:id="@+id/Room"
+                android:title="@string/group">
+            </item>
+            <item android:icon="@drawable/baseline_theaters_black_24"
+                android:id="@+id/Theatre"
+                android:title="@string/theatre">
+            </item>
+        </menu>
+    </item>
+</menu>
